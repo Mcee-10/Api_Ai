@@ -1,0 +1,20 @@
+```json
+[
+  {
+    "prompt": "Explique ce qu'est un test d'intrusion :",
+    "output": "Un test d'intrusion est une simulation d'attaque visant à identifier les failles de sécurité d'un système informatique."
+  },
+  {
+    "prompt": "Décris le rôle d'un hacker éthique :",
+    "output": "Un hacker éthique utilise ses compétences pour tester, renforcer et sécuriser les systèmes informatiques contre les attaques malveillantes."
+  },
+  {
+    "prompt": "Quels sont les types de failles courantes en cybersécurité ?",
+    "output": "Parmi les plus courantes, on trouve les injections SQL, les failles XSS, les mauvaises configurations et les fuites de données."
+  },
+  {
+    "prompt": "Explique le principe de l'ingénierie sociale :",
+    "output": "L'ingénierie sociale consiste à manipuler des personnes pour obtenir des informations sensibles en contournant la sécurité technique."
+  }
+]
+```
